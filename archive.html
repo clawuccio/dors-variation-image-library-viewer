@@ -81,7 +81,7 @@ function renderStats(rows){
 function card(row){
   const div=document.createElement('article'); div.className='card';
   const rel=row.image_path.replace(/^.*\/archive-images\//,'archive-images/');
-  const imgSrc=`${rel}?v=20260422e`;
+  const imgSrc=`${rel}?v=20260422f`;
   div.innerHTML=`<div class="imgbox"><img loading="lazy" src="${imgSrc}" alt="${row.visual_name || row.id}" /></div>
   <div class="meta">
     <div class="id">${row.visual_name || row.id}</div>
@@ -99,10 +99,28 @@ function card(row){
   </div>`;
   return div;
 }
+function dedupePreferredRows(rows){
+  const grouped = new Map();
+  const score = row => {
+    let s = 0;
+    if (row.visual_type_detail === 'named_handle_visual') s += 100;
+    if (row.source_pdf === 'dors-listino-260401.pdf') s += 50;
+    if (row.naming_confidence === 'listino_table_verified') s += 20;
+    if ((row.matching_group || '').includes('listino-handle-programme')) s += 10;
+    return s;
+  };
+  for (const row of rows) {
+    const isHandle = row.visual_type_detail === 'named_handle_visual';
+    const key = isHandle ? `handle:${(row.visual_name || row.match_key || row.id || '').toLowerCase()}` : `id:${row.id}`;
+    const prev = grouped.get(key);
+    if (!prev || score(row) > score(prev)) grouped.set(key, row);
+  }
+  return Array.from(grouped.values());
+}
 function applyFilters(){
   const q=searchInput.value.trim().toLowerCase();
   const c=category.value; const s=sourcePdf.value; const o=overlap.value;
-  const rows=allRows.filter(r=>{
+  const rows=dedupePreferredRows(allRows).filter(r=>{
     const hay=[r.visual_name,r.match_key,r.matching_group,r.visual_type_detail,r.id,r.source_pdf,r.category,r.pages,r.notes,r.is_already_in_code_library,r.page_label,r.related_palette_label,r.related_handle_label,...(r.matching_terms||[])].join(' ').toLowerCase();
     return (!q || hay.includes(q)) && (!c || r.category===c) && (!s || r.source_pdf===s) && (!o || r.is_already_in_code_library===o);
   });
@@ -111,7 +129,7 @@ function applyFilters(){
   if(!rows.length){ grid.innerHTML='<div class="empty">No archive visuals match the current filters.</div>'; return; }
   rows.forEach(r=>grid.appendChild(card(r)));
 }
-fetch('./dors-catalogue-visual-archive.json?v=20260422e').then(r=>r.json()).then(rows=>{
+fetch('./dors-catalogue-visual-archive.json?v=20260422f').then(r=>r.json()).then(rows=>{
   allRows=rows; renderStats(rows); optionize(category,[...new Set(rows.map(r=>r.category))]); optionize(sourcePdf,[...new Set(rows.map(r=>r.source_pdf))]);
   [searchInput,category,sourcePdf,overlap].forEach(el=>{ el.addEventListener('input',applyFilters); el.addEventListener('change',applyFilters); });
   applyFilters();
