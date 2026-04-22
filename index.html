@@ -168,6 +168,7 @@
       [
         `Total codes: ${rows.length}`,
         `Direct: ${direct}`,
+        `Mockup crop: ${rows.filter(r => r.match_type === 'mockup_page_crop').length}`,
         `Hero fallback: ${hero}`,
         `Missing: 0`
       ].forEach(text => {
@@ -219,7 +220,7 @@
       rows.forEach(r => grid.appendChild(card(r)));
     }
 
-    fetch('./dors-variation-image-library.json')
+    fetch('./dors-variation-image-library.json?v=20260422b')
       .then(r => r.json())
       .then(rows => {
         allRows = rows;
