@@ -81,7 +81,7 @@ function renderStats(rows){
 function card(row){
   const div=document.createElement('article'); div.className='card';
   const rel=row.image_path.replace(/^.*\/archive-images\//,'archive-images/');
-  const imgSrc=`${rel}?v=20260422f`;
+  const imgSrc=`${rel}?v=20260422g`;
   div.innerHTML=`<div class="imgbox"><img loading="lazy" src="${imgSrc}" alt="${row.visual_name || row.id}" /></div>
   <div class="meta">
     <div class="id">${row.visual_name || row.id}</div>
@@ -129,7 +129,7 @@ function applyFilters(){
   if(!rows.length){ grid.innerHTML='<div class="empty">No archive visuals match the current filters.</div>'; return; }
   rows.forEach(r=>grid.appendChild(card(r)));
 }
-fetch('./dors-catalogue-visual-archive.json?v=20260422f').then(r=>r.json()).then(rows=>{
+fetch('./dors-catalogue-visual-archive.json?v=20260422g').then(r=>r.json()).then(rows=>{
   allRows=rows; renderStats(rows); optionize(category,[...new Set(rows.map(r=>r.category))]); optionize(sourcePdf,[...new Set(rows.map(r=>r.source_pdf))]);
   [searchInput,category,sourcePdf,overlap].forEach(el=>{ el.addEventListener('input',applyFilters); el.addEventListener('change',applyFilters); });
   applyFilters();
