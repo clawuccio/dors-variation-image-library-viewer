@@ -733,14 +733,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Willy",
-    "match_key": "willy",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Kind Q H6",
+    "match_key": "kind q h6",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Willy",
-      "print3d-handle-programme",
+      "Kind Q H6",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -757,16 +757,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Willy Alu",
-    "match_key": "willy alu",
-    "matching_group": "print3d-handle-programme",
-    "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "related_handle_label": "Accessory hardware on handle spread",
+    "visual_name": "Cerniera Invisible IN300",
+    "match_key": "cerniera invisible in300",
+    "matching_group": "print3d-handle-programme-positioned",
+    "visual_type_detail": "named_hinge_visual",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Willy Alu",
-      "print3d-handle-programme",
-      "named_handle_visual"
+      "Cerniera Invisible IN300",
+      "print3d-handle-programme-positioned",
+      "named_hinge_visual"
     ]
   },
   {
@@ -785,12 +785,12 @@
     "related_handle_label": "Print 3D interior handle programme",
     "visual_name": "Orione Alu",
     "match_key": "orione alu",
-    "matching_group": "print3d-handle-programme",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
       "Orione Alu",
-      "print3d-handle-programme",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -808,14 +808,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Orione",
-    "match_key": "orione",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Pattern",
+    "match_key": "pattern",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Orione",
-      "print3d-handle-programme",
+      "Pattern",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -858,14 +858,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Economy — Quadro",
-    "match_key": "economy - quadro",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Quadra 2 H6",
+    "match_key": "quadra 2 h6",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Economy — Quadro",
-      "print3d-handle-programme",
+      "Quadra 2 H6",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -883,14 +883,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Circular",
-    "match_key": "circular",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Orione",
+    "match_key": "orione",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Circular",
-      "print3d-handle-programme",
+      "Orione",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -908,14 +908,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Ibla",
-    "match_key": "ibla",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Galaxy",
+    "match_key": "galaxy",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Ibla",
-      "print3d-handle-programme",
+      "Galaxy",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -933,14 +933,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Leroi",
-    "match_key": "leroi",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Onda",
+    "match_key": "onda",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Leroi",
-      "print3d-handle-programme",
+      "Onda",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -958,14 +958,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Impero",
-    "match_key": "impero",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Fair",
+    "match_key": "fair",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Impero",
-      "print3d-handle-programme",
+      "Fair",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -983,14 +983,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Quadra 2 H6",
-    "match_key": "quadra 2 h6",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Next",
+    "match_key": "next",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Quadra 2 H6",
-      "print3d-handle-programme",
+      "Next",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1010,12 +1010,12 @@
     "related_handle_label": "Print 3D interior handle programme",
     "visual_name": "One Q H6",
     "match_key": "one q h6",
-    "matching_group": "print3d-handle-programme",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
       "One Q H6",
-      "print3d-handle-programme",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1033,14 +1033,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Square H6",
-    "match_key": "square h6",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Teck 2",
+    "match_key": "teck 2",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Square H6",
-      "print3d-handle-programme",
+      "Teck 2",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1058,14 +1058,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Fair",
-    "match_key": "fair",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Leroi",
+    "match_key": "leroi",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Fair",
-      "print3d-handle-programme",
+      "Leroi",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1083,14 +1083,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Insert Q",
-    "match_key": "insert q",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Circular",
+    "match_key": "circular",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Insert Q",
-      "print3d-handle-programme",
+      "Circular",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1108,14 +1108,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Teck 2",
-    "match_key": "teck 2",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Willy",
+    "match_key": "willy",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Teck 2",
-      "print3d-handle-programme",
+      "Willy",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1133,14 +1133,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Kind Q H6",
-    "match_key": "kind q h6",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Willy Alu",
+    "match_key": "willy alu",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Kind Q H6",
-      "print3d-handle-programme",
+      "Willy Alu",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1157,16 +1157,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Next",
-    "match_key": "next",
-    "matching_group": "print3d-handle-programme",
-    "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "related_handle_label": "Accessory hardware on handle spread",
+    "visual_name": "Serratura Magnetica",
+    "match_key": "serratura magnetica",
+    "matching_group": "print3d-handle-programme-positioned",
+    "visual_type_detail": "named_lock_visual",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Next",
-      "print3d-handle-programme",
-      "named_handle_visual"
+      "Serratura Magnetica",
+      "print3d-handle-programme-positioned",
+      "named_lock_visual"
     ]
   },
   {
@@ -1185,12 +1185,12 @@
     "related_handle_label": "Print 3D interior handle programme",
     "visual_name": "Torque",
     "match_key": "torque",
-    "matching_group": "print3d-handle-programme",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
       "Torque",
-      "print3d-handle-programme",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1208,14 +1208,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Galaxy",
-    "match_key": "galaxy",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Square H6",
+    "match_key": "square h6",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Galaxy",
-      "print3d-handle-programme",
+      "Square H6",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1233,14 +1233,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Pattern",
-    "match_key": "pattern",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Ibla",
+    "match_key": "ibla",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Pattern",
-      "print3d-handle-programme",
+      "Ibla",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -1258,14 +1258,14 @@
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
     "related_handle_label": "Print 3D interior handle programme",
-    "visual_name": "Onda",
-    "match_key": "onda",
-    "matching_group": "print3d-handle-programme",
+    "visual_name": "Insert Q",
+    "match_key": "insert q",
+    "matching_group": "print3d-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Onda",
-      "print3d-handle-programme",
+      "Insert Q",
+      "print3d-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2445,14 +2445,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Willy",
-    "match_key": "willy",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Impero",
+    "match_key": "impero",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Willy",
-      "general-handle-programme",
+      "Impero",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2470,14 +2470,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Willy Alu",
-    "match_key": "willy alu",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Orione Alu",
+    "match_key": "orione alu",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Willy Alu",
-      "general-handle-programme",
+      "Orione Alu",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2495,14 +2495,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Orione Alu",
-    "match_key": "orione alu",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Kind Q H6",
+    "match_key": "kind q h6",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Orione Alu",
-      "general-handle-programme",
+      "Kind Q H6",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2545,14 +2545,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Economy — Tondo",
-    "match_key": "economy - tondo",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Quadra 2 H6",
+    "match_key": "quadra 2 h6",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Economy — Tondo",
-      "general-handle-programme",
+      "Quadra 2 H6",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2570,14 +2570,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Economy — Quadro",
-    "match_key": "economy - quadro",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Quadro",
+    "match_key": "quadro",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Economy — Quadro",
-      "general-handle-programme",
+      "Quadro",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2595,14 +2595,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Circular",
-    "match_key": "circular",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Next",
+    "match_key": "next",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Circular",
-      "general-handle-programme",
+      "Next",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2620,14 +2620,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Ibla",
-    "match_key": "ibla",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Teck 2",
+    "match_key": "teck 2",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Ibla",
-      "general-handle-programme",
+      "Teck 2",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2645,14 +2645,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Leroi",
-    "match_key": "leroi",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Fair",
+    "match_key": "fair",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Leroi",
-      "general-handle-programme",
+      "Fair",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2670,14 +2670,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Impero",
-    "match_key": "impero",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Tondo",
+    "match_key": "tondo",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Impero",
-      "general-handle-programme",
+      "Tondo",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2695,14 +2695,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Quadra 2 H6",
-    "match_key": "quadra 2 h6",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Ibla",
+    "match_key": "ibla",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Quadra 2 H6",
-      "general-handle-programme",
+      "Ibla",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2722,12 +2722,12 @@
     "related_handle_label": "Interior handle programme",
     "visual_name": "One Q H6",
     "match_key": "one q h6",
-    "matching_group": "general-handle-programme",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
       "One Q H6",
-      "general-handle-programme",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2745,14 +2745,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Square H6",
-    "match_key": "square h6",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Leroi",
+    "match_key": "leroi",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Square H6",
-      "general-handle-programme",
+      "Leroi",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2770,14 +2770,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Fair",
-    "match_key": "fair",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Orione",
+    "match_key": "orione",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Fair",
-      "general-handle-programme",
+      "Orione",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2820,14 +2820,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Teck 2",
-    "match_key": "teck 2",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Torque",
+    "match_key": "torque",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Teck 2",
-      "general-handle-programme",
+      "Torque",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2845,14 +2845,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Kind Q H6",
-    "match_key": "kind q h6",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Willy",
+    "match_key": "willy",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Kind Q H6",
-      "general-handle-programme",
+      "Willy",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2870,14 +2870,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Next",
-    "match_key": "next",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Cieco",
+    "match_key": "cieco",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Next",
-      "general-handle-programme",
+      "Cieco",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2895,14 +2895,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Torque",
-    "match_key": "torque",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Willy Alu",
+    "match_key": "willy alu",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Torque",
-      "general-handle-programme",
+      "Willy Alu",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2920,14 +2920,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Galaxy",
-    "match_key": "galaxy",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Insert Q",
+    "match_key": "insert q",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Galaxy",
-      "general-handle-programme",
+      "Insert Q",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2945,14 +2945,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Pattern",
-    "match_key": "pattern",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Square H6",
+    "match_key": "square h6",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Pattern",
-      "general-handle-programme",
+      "Square H6",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2970,14 +2970,14 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "Onda",
-    "match_key": "onda",
-    "matching_group": "general-handle-programme",
+    "visual_name": "Galaxy",
+    "match_key": "galaxy",
+    "matching_group": "general-handle-programme-positioned",
     "visual_type_detail": "named_handle_visual",
-    "naming_confidence": "ordered_from_ocr",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "Onda",
-      "general-handle-programme",
+      "Galaxy",
+      "general-handle-programme-positioned",
       "named_handle_visual"
     ]
   },
@@ -2995,14 +2995,15 @@
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
     "related_handle_label": "Interior handle programme",
-    "visual_name": "general-e6189283f35b8789",
-    "match_key": "general-e6189283f35b8789",
-    "matching_group": "",
-    "visual_type_detail": "finish_swatch",
-    "naming_confidence": "raw_id",
+    "visual_name": "Circular",
+    "match_key": "circular",
+    "matching_group": "general-handle-programme-positioned",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "page_position_verified",
     "matching_terms": [
-      "general-e6189283f35b8789",
-      "finish_swatch"
+      "Circular",
+      "general-handle-programme-positioned",
+      "named_handle_visual"
     ]
   },
   {

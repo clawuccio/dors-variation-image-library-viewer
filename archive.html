@@ -81,7 +81,8 @@ function renderStats(rows){
 function card(row){
   const div=document.createElement('article'); div.className='card';
   const rel=row.image_path.replace(/^.*\/archive-images\//,'archive-images/');
-  div.innerHTML=`<div class="imgbox"><img loading="lazy" src="${rel}" alt="${row.visual_name || row.id}" /></div>
+  const imgSrc=`${rel}?v=20260422d`;
+  div.innerHTML=`<div class="imgbox"><img loading="lazy" src="${imgSrc}" alt="${row.visual_name || row.id}" /></div>
   <div class="meta">
     <div class="id">${row.visual_name || row.id}</div>
     <div class="note"><strong>Archive ID:</strong> ${row.id}</div>

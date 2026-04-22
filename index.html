@@ -194,8 +194,9 @@
       const div = document.createElement('article');
       div.className = 'card';
       const rel = row.image_path.replace(/^.*\/images\//, 'images/');
+      const imgSrc = `${rel}?v=20260422d`;
       div.innerHTML = `
-        <div class="imgbox"><img loading="lazy" src="${rel}" alt="${row.code}" /></div>
+        <div class="imgbox"><img loading="lazy" src="${imgSrc}" alt="${row.code}" /></div>
         <div class="meta">
           <div class="code">${row.code}</div>
           <div class="note"><strong>Family:</strong> ${row.family || '—'}</div>
