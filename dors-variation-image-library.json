@@ -1,0 +1,1253 @@
+[
+  {
+    "code": "CB0-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CB0-010.png",
+    "source_pdf": "dors-general-catalogue-250605.pdf",
+    "page": 15,
+    "match_type": "hero_single_code_page",
+    "confidence": "medium_high",
+    "notes": "single-code hero/page image fallback; page text may show CB0001 variant in source, mapped to canonical CB0-010"
+  },
+  {
+    "code": "CFP-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 43,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 43,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 43,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 43,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-050.png",
+    "source_pdf": "dors-general-catalogue-250605.pdf",
+    "page": 17,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 44,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-070.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 44,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 44,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 45,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFP-100",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFP-100.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 45,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 39,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 39,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 39,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 39,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-050.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 40,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 40,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-070.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 40,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 40,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 41,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CFV-100",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CFV-100.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 41,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 59,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 59,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 59,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 59,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-050.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 60,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 60,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-070.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 60,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 60,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 61,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-100",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-100.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 61,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-110",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-110.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 61,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGQ-120",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGQ-120.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 61,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 63,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 63,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 63,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 63,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-050.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 64,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 64,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-070.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 64,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 64,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 65,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-100",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-100.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 65,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-110",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-110.png",
+    "source_pdf": "dors-general-catalogue-250605.pdf",
+    "page": 22,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CGV-120",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CGV-120.png",
+    "source_pdf": "dors-general-catalogue-250605.pdf",
+    "page": 22,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 47,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 47,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 47,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 47,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-050.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 48,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 48,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-070.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 48,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 48,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 49,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-100",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-100.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 49,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-110",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-110.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 49,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-120",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-120.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 49,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-130",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-130.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 50,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-140",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-140.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 50,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-150",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-150.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 50,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-160",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-160.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 50,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-170",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-170.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 51,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CL0-180",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CL0-180.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 51,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 53,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 53,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 53,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 53,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-050.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 54,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 54,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-070.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 54,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 54,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 55,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-100",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-100.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 55,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-110",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-110.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 55,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-120",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-120.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 55,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-130",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-130.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 56,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-140",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-140.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 56,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-150",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-150.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 56,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-160",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-160.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 56,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-170",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-170.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 57,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "CP0-180",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/CP0-180.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 57,
+    "match_type": "direct_single_column",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LB0-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LB0-010.png",
+    "source_pdf": "dors-general-catalogue-250605.pdf",
+    "page": 8,
+    "match_type": "hero_single_code_page",
+    "confidence": "medium_high",
+    "notes": "single-code hero/page image fallback"
+  },
+  {
+    "code": "LC0-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-050.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-070.png",
+    "source_pdf": "dors-general-catalogue-250605.pdf",
+    "page": 12,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-100",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-100.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-110",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-110.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-120",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-120.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-130",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-130.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-140",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-140.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-150",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-150.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-160",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-160.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-170",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-170.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-180",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-180.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-190",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-190.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 29,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-200",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-200.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-210",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-210.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-220",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-220.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-230",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-230.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-240",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-240.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-250",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-250.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-260",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-260.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-270",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-270.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-280",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-280.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LC0-290",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LC0-290.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 30,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-050.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-070.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFQ-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFQ-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 25,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-010.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-020.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-021",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-021.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-030.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-031",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-031.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-040.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-050.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-060",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-060.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-070",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-070.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-071",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-071.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-080",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-080.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-090",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-090.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-100",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-100.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "LFV-110",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/LFV-110.png",
+    "source_pdf": "dors-listino-260401.pdf",
+    "page": 27,
+    "match_type": "direct_grid",
+    "confidence": "high",
+    "notes": "direct code-under-drawing crop"
+  },
+  {
+    "code": "SBQ-010",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/SBQ-010.png",
+    "source_pdf": "dors-cleur-print-3d-catalogue-250402.pdf",
+    "page": 10,
+    "match_type": "hero_single_code_page",
+    "confidence": "medium_high",
+    "notes": "single-code hero/page image fallback"
+  },
+  {
+    "code": "SBQ-020",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/SBQ-020.png",
+    "source_pdf": "dors-cleur-print-3d-catalogue-250402.pdf",
+    "page": 11,
+    "match_type": "hero_single_code_page",
+    "confidence": "medium_high",
+    "notes": "single-code hero/page image fallback"
+  },
+  {
+    "code": "SBQ-030",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/SBQ-030.png",
+    "source_pdf": "dors-cleur-print-3d-catalogue-250402.pdf",
+    "page": 9,
+    "match_type": "hero_single_code_page",
+    "confidence": "medium_high",
+    "notes": "single-code hero/page image fallback"
+  },
+  {
+    "code": "SBQ-040",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/SBQ-040.png",
+    "source_pdf": "dors-cleur-print-3d-catalogue-250402.pdf",
+    "page": 7,
+    "match_type": "hero_single_code_page",
+    "confidence": "medium_high",
+    "notes": "single-code hero/page image fallback"
+  },
+  {
+    "code": "SBQ-050",
+    "image_path": "/home/claw/.hermes/exports/dors-variation-image-library-2026-04-21/images/SBQ-050.png",
+    "source_pdf": "dors-cleur-print-3d-catalogue-250402.pdf",
+    "page": 8,
+    "match_type": "hero_single_code_page",
+    "confidence": "medium_high",
+    "notes": "single-code hero/page image fallback"
+  }
+]

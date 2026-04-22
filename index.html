@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dors variation image library</title>
+  <style>
+    :root {
+      --bg: #0f1115;
+      --panel: #171a21;
+      --panel-2: #1d212a;
+      --text: #eef2f7;
+      --muted: #9aa4b2;
+      --accent: #78e08f;
+      --border: #2a3140;
+      --chip: #222936;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .wrap { max-width: 1480px; margin: 0 auto; padding: 28px; }
+    .hero {
+      display: grid;
+      gap: 14px;
+      margin-bottom: 24px;
+    }
+    h1 { margin: 0; font-size: 32px; }
+    .sub { color: var(--muted); max-width: 920px; line-height: 1.5; }
+    .stats {
+      display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px;
+    }
+    .stat, .chip {
+      background: var(--chip);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1.3fr 0.8fr 0.8fr 0.8fr;
+      gap: 12px;
+      margin: 18px 0 24px;
+    }
+    .toolbar input, .toolbar select {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      outline: none;
+    }
+    .results { color: var(--muted); margin-bottom: 16px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 16px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      overflow: hidden;
+      display: grid;
+      grid-template-rows: 240px auto;
+      min-height: 100%;
+    }
+    .imgbox {
+      background: #dfe4ea;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 12px;
+    }
+    .imgbox img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      display: block;
+      border-radius: 8px;
+    }
+    .meta {
+      padding: 14px;
+      display: grid;
+      gap: 10px;
+    }
+    .code {
+      font-weight: 700;
+      font-size: 18px;
+      letter-spacing: 0.02em;
+    }
+    .row { display: flex; flex-wrap: wrap; gap: 8px; }
+    .pill {
+      border: 1px solid var(--border);
+      background: var(--panel-2);
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 12px;
+    }
+    .note { font-size: 12px; line-height: 1.45; color: var(--muted); }
+    .links a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 13px;
+      margin-right: 10px;
+    }
+    .empty {
+      padding: 28px;
+      border-radius: 16px;
+      border: 1px dashed var(--border);
+      color: var(--muted);
+      background: rgba(255,255,255,0.02);
+    }
+    @media (max-width: 980px) {
+      .toolbar { grid-template-columns: 1fr; }
+      .wrap { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <h1>Dors variation image library</h1>
+      <div class="sub">Static viewer for the extracted Dors door-reference image library. Includes the matched product code, source PDF, page, match type, confidence, and notes. Direct crops are high-confidence; hero-page fallbacks are clearly labeled.</div>
+      <div class="stats" id="stats"></div>
+    </section>
+
+    <section class="toolbar">
+      <input id="search" placeholder="Search code, source PDF, or note…" />
+      <select id="matchType"><option value="">All match types</option></select>
+      <select id="confidence"><option value="">All confidence levels</option></select>
+      <select id="sourcePdf"><option value="">All source PDFs</option></select>
+    </section>
+
+    <div class="results" id="results">Loading…</div>
+    <div class="grid" id="grid"></div>
+  </div>
+
+  <script>
+    const grid = document.getElementById('grid');
+    const results = document.getElementById('results');
+    const stats = document.getElementById('stats');
+    const searchInput = document.getElementById('search');
+    const matchType = document.getElementById('matchType');
+    const confidence = document.getElementById('confidence');
+    const sourcePdf = document.getElementById('sourcePdf');
+    let allRows = [];
+
+    function optionize(select, values) {
+      values.sort().forEach(v => {
+        const opt = document.createElement('option');
+        opt.value = v; opt.textContent = v;
+        select.appendChild(opt);
+      });
+    }
+
+    function renderStats(rows) {
+      const direct = rows.filter(r => r.match_type.startsWith('direct')).length;
+      const hero = rows.filter(r => r.match_type === 'hero_single_code_page').length;
+      stats.innerHTML = '';
+      [
+        `Total codes: ${rows.length}`,
+        `Direct: ${direct}`,
+        `Hero fallback: ${hero}`,
+        `Missing: 0`
+      ].forEach(text => {
+        const el = document.createElement('div');
+        el.className = 'stat';
+        el.textContent = text;
+        stats.appendChild(el);
+      });
+    }
+
+    function card(row) {
+      const div = document.createElement('article');
+      div.className = 'card';
+      const rel = row.image_path.replace(/^.*\/images\//, 'images/');
+      div.innerHTML = `
+        <div class="imgbox"><img loading="lazy" src="${rel}" alt="${row.code}" /></div>
+        <div class="meta">
+          <div class="code">${row.code}</div>
+          <div class="row">
+            <span class="pill">${row.match_type}</span>
+            <span class="pill">${row.confidence}</span>
+            <span class="pill">p.${row.page}</span>
+          </div>
+          <div class="note"><strong>Source:</strong> ${row.source_pdf}</div>
+          <div class="note">${row.notes || ''}</div>
+          <div class="links"><a href="${rel}" target="_blank" rel="noopener">Open image</a></div>
+        </div>`;
+      return div;
+    }
+
+    function applyFilters() {
+      const q = searchInput.value.trim().toLowerCase();
+      const mt = matchType.value;
+      const cf = confidence.value;
+      const sp = sourcePdf.value;
+      const rows = allRows.filter(r => {
+        const hay = [r.code, r.source_pdf, r.notes, r.match_type, r.confidence].join(' ').toLowerCase();
+        return (!q || hay.includes(q)) &&
+               (!mt || r.match_type === mt) &&
+               (!cf || r.confidence === cf) &&
+               (!sp || r.source_pdf === sp);
+      });
+      results.textContent = `${rows.length} result${rows.length === 1 ? '' : 's'}`;
+      grid.innerHTML = '';
+      if (!rows.length) {
+        grid.innerHTML = '<div class="empty">No matches for the current filters.</div>';
+        return;
+      }
+      rows.forEach(r => grid.appendChild(card(r)));
+    }
+
+    fetch('./dors-variation-image-library.json')
+      .then(r => r.json())
+      .then(rows => {
+        allRows = rows;
+        renderStats(rows);
+        optionize(matchType, [...new Set(rows.map(r => r.match_type))]);
+        optionize(confidence, [...new Set(rows.map(r => r.confidence))]);
+        optionize(sourcePdf, [...new Set(rows.map(r => r.source_pdf))]);
+        [searchInput, matchType, confidence, sourcePdf].forEach(el => el.addEventListener('input', applyFilters));
+        [matchType, confidence, sourcePdf].forEach(el => el.addEventListener('change', applyFilters));
+        applyFilters();
+      })
+      .catch(err => {
+        results.textContent = 'Failed to load library data.';
+        grid.innerHTML = `<div class="empty">${err}</div>`;
+      });
+  </script>
+</body>
+</html>
