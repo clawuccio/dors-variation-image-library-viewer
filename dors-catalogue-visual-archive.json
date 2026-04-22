@@ -12,7 +12,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-ff8d2aa5522459e2",
+    "match_key": "print3d-ff8d2aa5522459e2",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-ff8d2aa5522459e2",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-df3da1d532171e99",
@@ -27,7 +36,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-df3da1d532171e99",
+    "match_key": "print3d-df3da1d532171e99",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-df3da1d532171e99",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-0f6f97e77b361ed7",
@@ -42,7 +60,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "Palette / swatch visual",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-0f6f97e77b361ed7",
+    "match_key": "print3d-0f6f97e77b361ed7",
+    "matching_group": "",
+    "visual_type_detail": "finish_swatch",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-0f6f97e77b361ed7",
+      "finish_swatch"
+    ]
   },
   {
     "id": "print3d-55c453315e627a7b",
@@ -57,7 +84,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-55c453315e627a7b",
+    "match_key": "print3d-55c453315e627a7b",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-55c453315e627a7b",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "print3d-7a5225b1523081dd",
@@ -72,7 +108,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-7a5225b1523081dd",
+    "match_key": "print3d-7a5225b1523081dd",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-7a5225b1523081dd",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "print3d-31b0dd60576c3045",
@@ -87,7 +132,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-31b0dd60576c3045",
+    "match_key": "print3d-31b0dd60576c3045",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-31b0dd60576c3045",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-c6403f136e4bbac4",
@@ -102,7 +156,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-c6403f136e4bbac4",
+    "match_key": "print3d-c6403f136e4bbac4",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-c6403f136e4bbac4",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-6de78ce700cce5ce",
@@ -117,7 +180,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-6de78ce700cce5ce",
+    "match_key": "print3d-6de78ce700cce5ce",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-6de78ce700cce5ce",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-96800e74d9617a25",
@@ -132,7 +204,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-96800e74d9617a25",
+    "match_key": "print3d-96800e74d9617a25",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-96800e74d9617a25",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-0ba38f7256e7c5ec",
@@ -147,7 +228,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-0ba38f7256e7c5ec",
+    "match_key": "print3d-0ba38f7256e7c5ec",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-0ba38f7256e7c5ec",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-7c26b222d514b9a8",
@@ -162,7 +252,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-7c26b222d514b9a8",
+    "match_key": "print3d-7c26b222d514b9a8",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-7c26b222d514b9a8",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-a1b89ab814c92e90",
@@ -177,7 +276,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-a1b89ab814c92e90",
+    "match_key": "print3d-a1b89ab814c92e90",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-a1b89ab814c92e90",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-c606bdaa02250759",
@@ -192,7 +300,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-c606bdaa02250759",
+    "match_key": "print3d-c606bdaa02250759",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-c606bdaa02250759",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-32498981bd9c7548",
@@ -207,7 +324,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-32498981bd9c7548",
+    "match_key": "print3d-32498981bd9c7548",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-32498981bd9c7548",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-cca58d859c9a2c57",
@@ -222,7 +348,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-cca58d859c9a2c57",
+    "match_key": "print3d-cca58d859c9a2c57",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-cca58d859c9a2c57",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-4a90fde05532a5de",
@@ -237,7 +372,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-4a90fde05532a5de",
+    "match_key": "print3d-4a90fde05532a5de",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-4a90fde05532a5de",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-56ac5606453ad5aa",
@@ -252,7 +396,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-56ac5606453ad5aa",
+    "match_key": "print3d-56ac5606453ad5aa",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-56ac5606453ad5aa",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-59f7fd80eed5257f",
@@ -267,7 +420,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-59f7fd80eed5257f",
+    "match_key": "print3d-59f7fd80eed5257f",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-59f7fd80eed5257f",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-92160cbfe6a749d9",
@@ -282,7 +444,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-92160cbfe6a749d9",
+    "match_key": "print3d-92160cbfe6a749d9",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-92160cbfe6a749d9",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-087993eee542c350",
@@ -297,7 +468,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-087993eee542c350",
+    "match_key": "print3d-087993eee542c350",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-087993eee542c350",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-1221430322630a54",
@@ -312,7 +492,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-1221430322630a54",
+    "match_key": "print3d-1221430322630a54",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-1221430322630a54",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-3a1ce03bb08ba15c",
@@ -327,7 +516,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-3a1ce03bb08ba15c",
+    "match_key": "print3d-3a1ce03bb08ba15c",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-3a1ce03bb08ba15c",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-4a7143f6dedf6c94",
@@ -342,7 +540,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-4a7143f6dedf6c94",
+    "match_key": "print3d-4a7143f6dedf6c94",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-4a7143f6dedf6c94",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-9cc7651a0fec2b59",
@@ -357,7 +564,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-9cc7651a0fec2b59",
+    "match_key": "print3d-9cc7651a0fec2b59",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-9cc7651a0fec2b59",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-0d6d2e0c4914e1c7",
@@ -372,7 +588,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-0d6d2e0c4914e1c7",
+    "match_key": "print3d-0d6d2e0c4914e1c7",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-0d6d2e0c4914e1c7",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-4330b3e05dcac290",
@@ -387,7 +612,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-4330b3e05dcac290",
+    "match_key": "print3d-4330b3e05dcac290",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-4330b3e05dcac290",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-8370b7b98e8979d5",
@@ -402,7 +636,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-8370b7b98e8979d5",
+    "match_key": "print3d-8370b7b98e8979d5",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-8370b7b98e8979d5",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-83ba3ff664532561",
@@ -417,7 +660,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-83ba3ff664532561",
+    "match_key": "print3d-83ba3ff664532561",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-83ba3ff664532561",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-b51bfa74abe41a24",
@@ -432,7 +684,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-b51bfa74abe41a24",
+    "match_key": "print3d-b51bfa74abe41a24",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-b51bfa74abe41a24",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-bd3f96363669bf12",
@@ -447,7 +708,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "print3d-bd3f96363669bf12",
+    "match_key": "print3d-bd3f96363669bf12",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "print3d-bd3f96363669bf12",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "print3d-0a0030d4434b8110",
@@ -462,7 +732,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Willy",
+    "match_key": "willy",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Willy",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-1c4027d0115c41a1",
@@ -477,7 +757,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Willy Alu",
+    "match_key": "willy alu",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Willy Alu",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-35122217651dbc1a",
@@ -492,7 +782,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Orione Alu",
+    "match_key": "orione alu",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Orione Alu",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-41d293ca2c88ac2a",
@@ -507,7 +807,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Orione",
+    "match_key": "orione",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Orione",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-4bb3af40fee28183",
@@ -522,7 +832,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Economy — Tondo",
+    "match_key": "economy - tondo",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Economy — Tondo",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-5791490252570d13",
@@ -537,7 +857,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Economy — Quadro",
+    "match_key": "economy - quadro",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Economy — Quadro",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-5ef3f81ff988c401",
@@ -552,7 +882,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Circular",
+    "match_key": "circular",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Circular",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-64eb7632e03feeee",
@@ -567,7 +907,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Ibla",
+    "match_key": "ibla",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Ibla",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-6b96de32f7003071",
@@ -582,7 +932,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Leroi",
+    "match_key": "leroi",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Leroi",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-7b52ea3829a6b212",
@@ -597,7 +957,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Impero",
+    "match_key": "impero",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Impero",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-80301094dd9cdb4c",
@@ -612,7 +982,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Quadra 2 H6",
+    "match_key": "quadra 2 h6",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Quadra 2 H6",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-8e7152885ff08981",
@@ -627,7 +1007,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "One Q H6",
+    "match_key": "one q h6",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "One Q H6",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-90876c9e5a855c0e",
@@ -642,7 +1032,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Square H6",
+    "match_key": "square h6",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Square H6",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-a358598b48b2483c",
@@ -657,7 +1057,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Fair",
+    "match_key": "fair",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Fair",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-aa085a666c9a06ee",
@@ -672,7 +1082,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Insert Q",
+    "match_key": "insert q",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Insert Q",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-c435cf02b55631ba",
@@ -687,7 +1107,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Teck 2",
+    "match_key": "teck 2",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Teck 2",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-c782d2f6235ea58d",
@@ -702,7 +1132,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Kind Q H6",
+    "match_key": "kind q h6",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Kind Q H6",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-c7af05646312341a",
@@ -717,7 +1157,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Next",
+    "match_key": "next",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Next",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-dbe1716af36abfa5",
@@ -732,7 +1182,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Torque",
+    "match_key": "torque",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Torque",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-e20635ea0cb0da8e",
@@ -747,7 +1207,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Galaxy",
+    "match_key": "galaxy",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Galaxy",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-e27afacf112175e6",
@@ -762,7 +1232,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Pattern",
+    "match_key": "pattern",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Pattern",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-e6189283f35b8789",
@@ -777,7 +1257,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Print 3D handle & finish spread",
     "related_palette_label": "Cleur Print 3D brand palette",
-    "related_handle_label": "Print 3D interior handle programme"
+    "related_handle_label": "Print 3D interior handle programme",
+    "visual_name": "Onda",
+    "match_key": "onda",
+    "matching_group": "print3d-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Onda",
+      "print3d-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "print3d-6905adf343658745",
@@ -792,7 +1282,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "Palette / swatch visual",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Cleur Print 3D colour board",
+    "match_key": "cleur-print-3d-colour-board",
+    "matching_group": "print3d-colour-board",
+    "visual_type_detail": "colour_board",
+    "naming_confidence": "page_level",
+    "matching_terms": [
+      "Cleur Print 3D colour board",
+      "Cleur Print 3D brand palette",
+      "colour board"
+    ]
   },
   {
     "id": "general-ff8d2aa5522459e2",
@@ -807,7 +1307,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-ff8d2aa5522459e2",
+    "match_key": "general-ff8d2aa5522459e2",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-ff8d2aa5522459e2",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-df3da1d532171e99",
@@ -822,7 +1331,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-df3da1d532171e99",
+    "match_key": "general-df3da1d532171e99",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-df3da1d532171e99",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-0f6f97e77b361ed7",
@@ -837,7 +1355,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "Palette / swatch visual",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-0f6f97e77b361ed7",
+    "match_key": "general-0f6f97e77b361ed7",
+    "matching_group": "",
+    "visual_type_detail": "finish_swatch",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-0f6f97e77b361ed7",
+      "finish_swatch"
+    ]
   },
   {
     "id": "general-180d86e06fe63aa6",
@@ -852,7 +1379,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Palissandro Grigio (D304)",
+    "match_key": "palissandro grigio d304",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Palissandro Grigio (D304)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-847c09e99d41938f",
@@ -867,7 +1404,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Olmo (D305)",
+    "match_key": "olmo d305",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Olmo (D305)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-95d190bc0d5180f7",
@@ -882,7 +1429,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Noce Alther (D306)",
+    "match_key": "noce alther d306",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Noce Alther (D306)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-9ea534b2b5c8a002",
@@ -897,7 +1454,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Bianco (D300)",
+    "match_key": "bianco d300",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Bianco (D300)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-a116b36be7ff44dd",
@@ -912,7 +1479,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Noce Tanganica (D307)",
+    "match_key": "noce tanganica d307",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Noce Tanganica (D307)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-b56e0b1d50ca8b68",
@@ -927,7 +1504,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Noce Nazionale (D308)",
+    "match_key": "noce nazionale d308",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Noce Nazionale (D308)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-b6c9d3a1442d3e2a",
@@ -942,7 +1529,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Cashmere (D101)",
+    "match_key": "cashmere d101",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Cashmere (D101)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-bc3bb31da51c2276",
@@ -957,7 +1554,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Light Grey (D100)",
+    "match_key": "light grey d100",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Light Grey (D100)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-d090fbf8cb94734b",
@@ -972,7 +1579,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Lamina finish board",
     "related_palette_label": "Lamina finish palette",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "Bianco Dors (D001)",
+    "match_key": "bianco dors d001",
+    "matching_group": "lamina-finish-swatches",
+    "visual_type_detail": "named_finish_swatch",
+    "naming_confidence": "ordered_from_ocr_partial_page_match",
+    "matching_terms": [
+      "Bianco Dors (D001)",
+      "lamina-finish-swatches",
+      "named_finish_swatch"
+    ]
   },
   {
     "id": "general-ef75b31bebd4bc29",
@@ -987,7 +1604,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-ef75b31bebd4bc29",
+    "match_key": "general-ef75b31bebd4bc29",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-ef75b31bebd4bc29",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-8441b02439a17e44",
@@ -1002,7 +1628,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-8441b02439a17e44",
+    "match_key": "general-8441b02439a17e44",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-8441b02439a17e44",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-dde3e18265daa451",
@@ -1017,7 +1652,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-dde3e18265daa451",
+    "match_key": "general-dde3e18265daa451",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-dde3e18265daa451",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-73c760a4b7670156",
@@ -1032,7 +1676,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-73c760a4b7670156",
+    "match_key": "general-73c760a4b7670156",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-73c760a4b7670156",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-f68c9eb3308bea6c",
@@ -1047,7 +1700,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-f68c9eb3308bea6c",
+    "match_key": "general-f68c9eb3308bea6c",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-f68c9eb3308bea6c",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-c36d4e6c389511f5",
@@ -1062,7 +1724,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-c36d4e6c389511f5",
+    "match_key": "general-c36d4e6c389511f5",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-c36d4e6c389511f5",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-e285be26dcf73ef0",
@@ -1077,7 +1748,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-e285be26dcf73ef0",
+    "match_key": "general-e285be26dcf73ef0",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-e285be26dcf73ef0",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-0d76696951e32a3b",
@@ -1092,7 +1772,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-0d76696951e32a3b",
+    "match_key": "general-0d76696951e32a3b",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-0d76696951e32a3b",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-8b8870f099af2e81",
@@ -1107,7 +1796,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-8b8870f099af2e81",
+    "match_key": "general-8b8870f099af2e81",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-8b8870f099af2e81",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-c8cd09dac251c1c2",
@@ -1122,7 +1820,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-c8cd09dac251c1c2",
+    "match_key": "general-c8cd09dac251c1c2",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-c8cd09dac251c1c2",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-0704f0822038d0a6",
@@ -1137,7 +1844,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-0704f0822038d0a6",
+    "match_key": "general-0704f0822038d0a6",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-0704f0822038d0a6",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-0e66270a4dc2ab0b",
@@ -1152,7 +1868,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-0e66270a4dc2ab0b",
+    "match_key": "general-0e66270a4dc2ab0b",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-0e66270a4dc2ab0b",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-54864f35ca32f0f9",
@@ -1167,7 +1892,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-54864f35ca32f0f9",
+    "match_key": "general-54864f35ca32f0f9",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-54864f35ca32f0f9",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-97ad6a045d070cb4",
@@ -1182,7 +1916,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-97ad6a045d070cb4",
+    "match_key": "general-97ad6a045d070cb4",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-97ad6a045d070cb4",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-b51bfa74abe41a24",
@@ -1197,7 +1940,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-b51bfa74abe41a24",
+    "match_key": "general-b51bfa74abe41a24",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-b51bfa74abe41a24",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-c5f150aff1fe9b0a",
@@ -1212,7 +1964,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-c5f150aff1fe9b0a",
+    "match_key": "general-c5f150aff1fe9b0a",
+    "matching_group": "",
+    "visual_type_detail": "editorial_brand_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-c5f150aff1fe9b0a",
+      "editorial_brand_visual"
+    ]
   },
   {
     "id": "general-289b43fc8c30398e",
@@ -1227,7 +1988,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-289b43fc8c30398e",
+    "match_key": "general-289b43fc8c30398e",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-289b43fc8c30398e",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-cc034d7c5e1a3174",
@@ -1242,7 +2012,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-cc034d7c5e1a3174",
+    "match_key": "general-cc034d7c5e1a3174",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-cc034d7c5e1a3174",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-44511964c29dcc3e",
@@ -1257,7 +2036,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-44511964c29dcc3e",
+    "match_key": "general-44511964c29dcc3e",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-44511964c29dcc3e",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-85d60635e8a20fc5",
@@ -1272,7 +2060,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-85d60635e8a20fc5",
+    "match_key": "general-85d60635e8a20fc5",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-85d60635e8a20fc5",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-e36f3c19baad4cb9",
@@ -1287,7 +2084,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-e36f3c19baad4cb9",
+    "match_key": "general-e36f3c19baad4cb9",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-e36f3c19baad4cb9",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-04611b7bd6f31313",
@@ -1302,7 +2108,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-04611b7bd6f31313",
+    "match_key": "general-04611b7bd6f31313",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-04611b7bd6f31313",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-0e44b748c4aae1f7",
@@ -1317,7 +2132,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-0e44b748c4aae1f7",
+    "match_key": "general-0e44b748c4aae1f7",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-0e44b748c4aae1f7",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-7934634ec871cfcb",
@@ -1332,7 +2156,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-7934634ec871cfcb",
+    "match_key": "general-7934634ec871cfcb",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-7934634ec871cfcb",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-95ae56c83e82b64d",
@@ -1347,7 +2180,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-95ae56c83e82b64d",
+    "match_key": "general-95ae56c83e82b64d",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-95ae56c83e82b64d",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-749ab0fb52638c29",
@@ -1362,7 +2204,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-749ab0fb52638c29",
+    "match_key": "general-749ab0fb52638c29",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-749ab0fb52638c29",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-833ef5de41f28609",
@@ -1377,7 +2228,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-833ef5de41f28609",
+    "match_key": "general-833ef5de41f28609",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-833ef5de41f28609",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-8a0ae1cce47cd802",
@@ -1392,7 +2252,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-8a0ae1cce47cd802",
+    "match_key": "general-8a0ae1cce47cd802",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-8a0ae1cce47cd802",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-c6108a99f5ca5d94",
@@ -1407,7 +2276,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-c6108a99f5ca5d94",
+    "match_key": "general-c6108a99f5ca5d94",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-c6108a99f5ca5d94",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-244b88f1998e3648",
@@ -1422,7 +2300,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-244b88f1998e3648",
+    "match_key": "general-244b88f1998e3648",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-244b88f1998e3648",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-4701ed9b9108fbed",
@@ -1437,7 +2324,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-4701ed9b9108fbed",
+    "match_key": "general-4701ed9b9108fbed",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-4701ed9b9108fbed",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-47eb5304063fc698",
@@ -1452,7 +2348,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-47eb5304063fc698",
+    "match_key": "general-47eb5304063fc698",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-47eb5304063fc698",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-536fb4a8b9478f09",
@@ -1467,7 +2372,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-536fb4a8b9478f09",
+    "match_key": "general-536fb4a8b9478f09",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-536fb4a8b9478f09",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-710d812d0beaf211",
@@ -1482,7 +2396,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-710d812d0beaf211",
+    "match_key": "general-710d812d0beaf211",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-710d812d0beaf211",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-b6c40a3be96d80b4",
@@ -1497,7 +2420,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-b6c40a3be96d80b4",
+    "match_key": "general-b6c40a3be96d80b4",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-b6c40a3be96d80b4",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "general-0a0030d4434b8110",
@@ -1512,7 +2444,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Willy",
+    "match_key": "willy",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Willy",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-35122217651dbc1a",
@@ -1527,7 +2469,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Willy Alu",
+    "match_key": "willy alu",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Willy Alu",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-41d293ca2c88ac2a",
@@ -1542,7 +2494,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Orione Alu",
+    "match_key": "orione alu",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Orione Alu",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-4bb3af40fee28183",
@@ -1557,7 +2519,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Orione",
+    "match_key": "orione",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Orione",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-5791490252570d13",
@@ -1572,7 +2544,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Economy — Tondo",
+    "match_key": "economy - tondo",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Economy — Tondo",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-5c4e3a16fe956f03",
@@ -1587,7 +2569,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Economy — Quadro",
+    "match_key": "economy - quadro",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Economy — Quadro",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-64eb7632e03feeee",
@@ -1602,7 +2594,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Circular",
+    "match_key": "circular",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Circular",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-6b96de32f7003071",
@@ -1617,7 +2619,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Ibla",
+    "match_key": "ibla",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Ibla",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-7b52ea3829a6b212",
@@ -1632,7 +2644,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Leroi",
+    "match_key": "leroi",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Leroi",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-7bde015760cc6a7e",
@@ -1647,7 +2669,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Impero",
+    "match_key": "impero",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Impero",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-80301094dd9cdb4c",
@@ -1662,7 +2694,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Quadra 2 H6",
+    "match_key": "quadra 2 h6",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Quadra 2 H6",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-8e7152885ff08981",
@@ -1677,7 +2719,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "One Q H6",
+    "match_key": "one q h6",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "One Q H6",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-90876c9e5a855c0e",
@@ -1692,7 +2744,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Square H6",
+    "match_key": "square h6",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Square H6",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-9c869c8e8e99bafb",
@@ -1707,7 +2769,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Fair",
+    "match_key": "fair",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Fair",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-a358598b48b2483c",
@@ -1722,7 +2794,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Insert Q",
+    "match_key": "insert q",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Insert Q",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-aa085a666c9a06ee",
@@ -1737,7 +2819,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Teck 2",
+    "match_key": "teck 2",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Teck 2",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-c435cf02b55631ba",
@@ -1752,7 +2844,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Kind Q H6",
+    "match_key": "kind q h6",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Kind Q H6",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-c5ca5b19b2219175",
@@ -1767,7 +2869,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Next",
+    "match_key": "next",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Next",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-c782d2f6235ea58d",
@@ -1782,7 +2894,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Torque",
+    "match_key": "torque",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Torque",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-dbe1716af36abfa5",
@@ -1797,7 +2919,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Galaxy",
+    "match_key": "galaxy",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Galaxy",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-e20635ea0cb0da8e",
@@ -1812,7 +2944,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Pattern",
+    "match_key": "pattern",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Pattern",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-e27afacf112175e6",
@@ -1827,7 +2969,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "Onda",
+    "match_key": "onda",
+    "matching_group": "general-handle-programme",
+    "visual_type_detail": "named_handle_visual",
+    "naming_confidence": "ordered_from_ocr",
+    "matching_terms": [
+      "Onda",
+      "general-handle-programme",
+      "named_handle_visual"
+    ]
   },
   {
     "id": "general-e6189283f35b8789",
@@ -1842,7 +2994,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "General catalogue swatches / handle spread",
     "related_palette_label": "Cleur brand palette",
-    "related_handle_label": "Interior handle programme"
+    "related_handle_label": "Interior handle programme",
+    "visual_name": "general-e6189283f35b8789",
+    "match_key": "general-e6189283f35b8789",
+    "matching_group": "",
+    "visual_type_detail": "finish_swatch",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-e6189283f35b8789",
+      "finish_swatch"
+    ]
   },
   {
     "id": "general-80646dfa75fd6e78",
@@ -1857,7 +3018,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-80646dfa75fd6e78",
+    "match_key": "general-80646dfa75fd6e78",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-80646dfa75fd6e78",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-08030c36998eda97",
@@ -1872,7 +3042,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Borchietta interna",
+    "match_key": "borchietta interna",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Borchietta interna",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-102f18355e5cc603",
@@ -1887,7 +3067,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Pomo",
+    "match_key": "pomo",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Pomo",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-26188377085f7110",
@@ -1902,7 +3092,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Porta blindata basic singola — anta/telaio",
+    "match_key": "porta blindata basic singola - anta-telaio",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Porta blindata basic singola — anta/telaio",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-3996688dacecb9ce",
@@ -1917,7 +3117,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Defender",
+    "match_key": "defender",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Defender",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-5be04a02e307c23f",
@@ -1932,7 +3142,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Limitatore apertura",
+    "match_key": "limitatore apertura",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Limitatore apertura",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-8b841d7110170d75",
@@ -1947,7 +3167,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Maniglia interna",
+    "match_key": "maniglia interna",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Maniglia interna",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-8eb387a4ea1e2584",
@@ -1962,7 +3192,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Maniglione",
+    "match_key": "maniglione",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Maniglione",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-c885ed2600c88f62",
@@ -1977,7 +3217,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Spioncino grandangolare",
+    "match_key": "spioncino grandangolare",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Spioncino grandangolare",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-ee7ea6baad4acf0c",
@@ -1992,7 +3242,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "Blindata hardware accessories",
     "related_palette_label": "",
-    "related_handle_label": "Blindata hardware / accessories"
+    "related_handle_label": "Blindata hardware / accessories",
+    "visual_name": "Defender con vaschetta antishock",
+    "match_key": "defender con vaschetta antishock",
+    "matching_group": "blindata-accessories",
+    "visual_type_detail": "named_hardware_accessory",
+    "naming_confidence": "ordered_from_ocr_best_effort",
+    "matching_terms": [
+      "Defender con vaschetta antishock",
+      "blindata-accessories",
+      "named_hardware_accessory"
+    ]
   },
   {
     "id": "general-17108d8fc61f98c6",
@@ -2007,7 +3267,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": "Hardware / accessory visual"
+    "related_handle_label": "Hardware / accessory visual",
+    "visual_name": "general-17108d8fc61f98c6",
+    "match_key": "general-17108d8fc61f98c6",
+    "matching_group": "",
+    "visual_type_detail": "hardware_accessory",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-17108d8fc61f98c6",
+      "hardware_accessory"
+    ]
   },
   {
     "id": "general-48c19ab403512f74",
@@ -2022,7 +3291,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": "Hardware / accessory visual"
+    "related_handle_label": "Hardware / accessory visual",
+    "visual_name": "general-48c19ab403512f74",
+    "match_key": "general-48c19ab403512f74",
+    "matching_group": "",
+    "visual_type_detail": "hardware_accessory",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-48c19ab403512f74",
+      "hardware_accessory"
+    ]
   },
   {
     "id": "general-0e0d7db1ba8ed8d3",
@@ -2037,7 +3315,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": "Hardware / accessory visual"
+    "related_handle_label": "Hardware / accessory visual",
+    "visual_name": "general-0e0d7db1ba8ed8d3",
+    "match_key": "general-0e0d7db1ba8ed8d3",
+    "matching_group": "",
+    "visual_type_detail": "hardware_accessory",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-0e0d7db1ba8ed8d3",
+      "hardware_accessory"
+    ]
   },
   {
     "id": "general-b64fce930040842f",
@@ -2052,7 +3339,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": "Hardware / accessory visual"
+    "related_handle_label": "Hardware / accessory visual",
+    "visual_name": "general-b64fce930040842f",
+    "match_key": "general-b64fce930040842f",
+    "matching_group": "",
+    "visual_type_detail": "hardware_accessory",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-b64fce930040842f",
+      "hardware_accessory"
+    ]
   },
   {
     "id": "general-cb44f2179340ea80",
@@ -2067,7 +3363,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": "Hardware / accessory visual"
+    "related_handle_label": "Hardware / accessory visual",
+    "visual_name": "general-cb44f2179340ea80",
+    "match_key": "general-cb44f2179340ea80",
+    "matching_group": "",
+    "visual_type_detail": "hardware_accessory",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-cb44f2179340ea80",
+      "hardware_accessory"
+    ]
   },
   {
     "id": "general-135916c51076efec",
@@ -2082,7 +3387,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-135916c51076efec",
+    "match_key": "general-135916c51076efec",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-135916c51076efec",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-2bda59459771eebf",
@@ -2097,7 +3411,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-2bda59459771eebf",
+    "match_key": "general-2bda59459771eebf",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-2bda59459771eebf",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-52dd3652e592ff9b",
@@ -2112,7 +3435,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-52dd3652e592ff9b",
+    "match_key": "general-52dd3652e592ff9b",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-52dd3652e592ff9b",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-73ee43844fc1b70f",
@@ -2127,7 +3459,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-73ee43844fc1b70f",
+    "match_key": "general-73ee43844fc1b70f",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-73ee43844fc1b70f",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-7c7163fe9e832eaa",
@@ -2142,7 +3483,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-7c7163fe9e832eaa",
+    "match_key": "general-7c7163fe9e832eaa",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-7c7163fe9e832eaa",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-819262f1b8650762",
@@ -2157,7 +3507,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-819262f1b8650762",
+    "match_key": "general-819262f1b8650762",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-819262f1b8650762",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-ba78e93cf975b3a4",
@@ -2172,7 +3531,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-ba78e93cf975b3a4",
+    "match_key": "general-ba78e93cf975b3a4",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-ba78e93cf975b3a4",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-fa4f101a6a955481",
@@ -2187,7 +3555,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-fa4f101a6a955481",
+    "match_key": "general-fa4f101a6a955481",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-fa4f101a6a955481",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-fabfa2d5b3152504",
@@ -2202,7 +3579,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "general-fabfa2d5b3152504",
+    "match_key": "general-fabfa2d5b3152504",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "general-fabfa2d5b3152504",
+      "blindata_visual"
+    ]
   },
   {
     "id": "general-cd7746a9ee5b2f5e",
@@ -2217,7 +3603,17 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "Palette / swatch visual",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "General catalogue finish / colour board",
+    "match_key": "general-finish-colour-board",
+    "matching_group": "general-finish-board",
+    "visual_type_detail": "colour_board",
+    "naming_confidence": "page_level",
+    "matching_terms": [
+      "General catalogue finish / colour board",
+      "Cleur brand palette",
+      "Lamina finish palette"
+    ]
   },
   {
     "id": "listino-d6e7e64e0ebe8eb9",
@@ -2232,7 +3628,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-d6e7e64e0ebe8eb9",
+    "match_key": "listino-d6e7e64e0ebe8eb9",
+    "matching_group": "",
+    "visual_type_detail": "catalogue_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-d6e7e64e0ebe8eb9",
+      "catalogue_visual"
+    ]
   },
   {
     "id": "listino-614dd0e878ac36b0",
@@ -2247,7 +3652,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-614dd0e878ac36b0",
+    "match_key": "listino-614dd0e878ac36b0",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-614dd0e878ac36b0",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "listino-821b13c785299fe5",
@@ -2262,7 +3676,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-821b13c785299fe5",
+    "match_key": "listino-821b13c785299fe5",
+    "matching_group": "",
+    "visual_type_detail": "catalogue_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-821b13c785299fe5",
+      "catalogue_visual"
+    ]
   },
   {
     "id": "listino-88b1c3f24b038eed",
@@ -2277,7 +3700,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-88b1c3f24b038eed",
+    "match_key": "listino-88b1c3f24b038eed",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-88b1c3f24b038eed",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "listino-b4bb72c2d649e23b",
@@ -2292,7 +3724,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-b4bb72c2d649e23b",
+    "match_key": "listino-b4bb72c2d649e23b",
+    "matching_group": "",
+    "visual_type_detail": "opening_system_or_technical",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-b4bb72c2d649e23b",
+      "opening_system_or_technical"
+    ]
   },
   {
     "id": "listino-05bcdb28e5e0109f",
@@ -2307,7 +3748,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-05bcdb28e5e0109f",
+    "match_key": "listino-05bcdb28e5e0109f",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-05bcdb28e5e0109f",
+      "blindata_visual"
+    ]
   },
   {
     "id": "listino-43aed61c30324ddf",
@@ -2322,7 +3772,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-43aed61c30324ddf",
+    "match_key": "listino-43aed61c30324ddf",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-43aed61c30324ddf",
+      "blindata_visual"
+    ]
   },
   {
     "id": "listino-455f1d8d77681912",
@@ -2337,7 +3796,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-455f1d8d77681912",
+    "match_key": "listino-455f1d8d77681912",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-455f1d8d77681912",
+      "blindata_visual"
+    ]
   },
   {
     "id": "listino-4adb02ba644af651",
@@ -2352,7 +3820,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-4adb02ba644af651",
+    "match_key": "listino-4adb02ba644af651",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-4adb02ba644af651",
+      "blindata_visual"
+    ]
   },
   {
     "id": "listino-56a41d915d429035",
@@ -2367,7 +3844,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-56a41d915d429035",
+    "match_key": "listino-56a41d915d429035",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-56a41d915d429035",
+      "blindata_visual"
+    ]
   },
   {
     "id": "listino-6b48cdf2729308b1",
@@ -2382,7 +3868,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-6b48cdf2729308b1",
+    "match_key": "listino-6b48cdf2729308b1",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-6b48cdf2729308b1",
+      "blindata_visual"
+    ]
   },
   {
     "id": "listino-9a2985e4d53bd44b",
@@ -2397,7 +3892,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-9a2985e4d53bd44b",
+    "match_key": "listino-9a2985e4d53bd44b",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-9a2985e4d53bd44b",
+      "blindata_visual"
+    ]
   },
   {
     "id": "listino-d522115b56ab1350",
@@ -2412,7 +3916,16 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-d522115b56ab1350",
+    "match_key": "listino-d522115b56ab1350",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-d522115b56ab1350",
+      "blindata_visual"
+    ]
   },
   {
     "id": "listino-fcd622febb7b5c1a",
@@ -2427,6 +3940,15 @@
     "notes": "embedded image asset extracted from PDF",
     "page_label": "",
     "related_palette_label": "",
-    "related_handle_label": ""
+    "related_handle_label": "",
+    "visual_name": "listino-fcd622febb7b5c1a",
+    "match_key": "listino-fcd622febb7b5c1a",
+    "matching_group": "",
+    "visual_type_detail": "blindata_visual",
+    "naming_confidence": "raw_id",
+    "matching_terms": [
+      "listino-fcd622febb7b5c1a",
+      "blindata_visual"
+    ]
   }
 ]
