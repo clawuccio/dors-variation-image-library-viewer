@@ -43,9 +43,9 @@
     }
     .toolbar {
       display: grid;
-      grid-template-columns: 1.3fr 0.8fr 0.8fr 0.8fr;
+      grid-template-columns: minmax(260px, 1.3fr) repeat(4, minmax(160px, 0.75fr));
       gap: 12px;
-      margin: 18px 0 24px;
+      margin-bottom: 24px;
     }
     .toolbar input, .toolbar select {
       width: 100%;
@@ -141,7 +141,8 @@
     </section>
 
     <section class="toolbar">
-      <input id="search" placeholder="Search code, source PDF, or note…" />
+      <input id="search" placeholder="Search code, family, palette, handle, source PDF, or note…" />
+      <select id="family"><option value="">All families</option></select>
       <select id="matchType"><option value="">All match types</option></select>
       <select id="confidence"><option value="">All confidence levels</option></select>
       <select id="sourcePdf"><option value="">All source PDFs</option></select>
@@ -156,6 +157,7 @@
     const results = document.getElementById('results');
     const stats = document.getElementById('stats');
     const searchInput = document.getElementById('search');
+    const family = document.getElementById('family');
     const matchType = document.getElementById('matchType');
     const confidence = document.getElementById('confidence');
     const sourcePdf = document.getElementById('sourcePdf');
@@ -175,6 +177,7 @@
       stats.innerHTML = '';
       [
         `Total codes: ${rows.length}`,
+        `Families: ${[...new Set(rows.map(r => r.family))].length}`,
         `Direct: ${direct}`,
         `Mockup crop: ${rows.filter(r => r.match_type === 'mockup_page_crop').length}`,
         `Hero fallback: ${hero}`,
@@ -195,12 +198,20 @@
         <div class="imgbox"><img loading="lazy" src="${rel}" alt="${row.code}" /></div>
         <div class="meta">
           <div class="code">${row.code}</div>
+          <div class="note"><strong>Family:</strong> ${row.family || '—'}</div>
           <div class="row">
             <span class="pill">${row.match_type}</span>
             <span class="pill">${row.confidence}</span>
             <span class="pill">p.${row.page}</span>
           </div>
           <div class="note"><strong>Source:</strong> ${row.source_pdf}</div>
+          <div class="note"><strong>Palette:</strong> ${row.palette_label || '—'}</div>
+          <div class="note">${(row.palette_values || []).join(' · ')}</div>
+          <div class="note"><strong>Handles:</strong> ${row.handle_label || '—'}</div>
+          <div class="note">${(row.handle_models || []).join(' · ')}</div>
+          <div class="note"><strong>Handle finishes:</strong> ${(row.handle_finishes || []).join(' · ')}</div>
+          <div class="note">${row.palette_notes || ''}</div>
+          <div class="note">${row.handle_notes || ''}</div>
           <div class="note">${row.notes || ''}</div>
           <div class="links"><a href="${rel}" target="_blank" rel="noopener">Open image</a></div>
         </div>`;
@@ -209,12 +220,18 @@
 
     function applyFilters() {
       const q = searchInput.value.trim().toLowerCase();
+      const fm = family.value;
       const mt = matchType.value;
       const cf = confidence.value;
       const sp = sourcePdf.value;
       const rows = allRows.filter(r => {
-        const hay = [r.code, r.source_pdf, r.notes, r.match_type, r.confidence].join(' ').toLowerCase();
+        const hay = [
+          r.code, r.family, r.source_pdf, r.notes, r.match_type, r.confidence,
+          r.palette_label, ...(r.palette_values || []), r.palette_notes,
+          r.handle_label, ...(r.handle_models || []), ...(r.handle_finishes || []), r.handle_notes
+        ].join(' ').toLowerCase();
         return (!q || hay.includes(q)) &&
+               (!fm || r.family === fm) &&
                (!mt || r.match_type === mt) &&
                (!cf || r.confidence === cf) &&
                (!sp || r.source_pdf === sp);
@@ -228,16 +245,17 @@
       rows.forEach(r => grid.appendChild(card(r)));
     }
 
-    fetch('./dors-variation-image-library.json?v=20260422b')
+    fetch('./dors-variation-image-library.json?v=20260422c')
       .then(r => r.json())
       .then(rows => {
         allRows = rows;
         renderStats(rows);
+        optionize(family, [...new Set(rows.map(r => r.family))]);
         optionize(matchType, [...new Set(rows.map(r => r.match_type))]);
         optionize(confidence, [...new Set(rows.map(r => r.confidence))]);
         optionize(sourcePdf, [...new Set(rows.map(r => r.source_pdf))]);
-        [searchInput, matchType, confidence, sourcePdf].forEach(el => el.addEventListener('input', applyFilters));
-        [matchType, confidence, sourcePdf].forEach(el => el.addEventListener('change', applyFilters));
+        [searchInput, family, matchType, confidence, sourcePdf].forEach(el => el.addEventListener('input', applyFilters));
+        [family, matchType, confidence, sourcePdf].forEach(el => el.addEventListener('change', applyFilters));
         applyFilters();
       })
       .catch(err => {
